@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 enum MESSAGE_TYPES { SENT, RECIEVED }
 
+//
 class ChatBubble extends StatelessWidget {
   final String message;
   final MESSAGE_TYPES messageType;
