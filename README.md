@@ -1,16 +1,12 @@
-# whatsapp_clone
+# Screenshots
+A whatsapp UI clone made with flutter for Flutter UI Challenge #001
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Chat Screen](https://github.com/OLayemii/flutterui-whatsapp-clone/blob/master/screenshots/screen1.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Call Screen](https://github.com/OLayemii/flutterui-whatsapp-clone/blob/master/screenshots/screen2.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Single Chat Screen](https://github.com/OLayemii/flutterui-whatsapp-clone/blob/master/screenshots/screen3.png)
